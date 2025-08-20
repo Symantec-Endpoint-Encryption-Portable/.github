@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://ic-sts.com/wp-content/uploads/Symantec-Endpoint-Encryption-Device-Control.jpg" alt="Symantec Endpoint Encryption Portable Interface" width="700">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHNthZ0Ylk-QoXA5Vjf-dUidjBIKQ67Ktrw&s" alt="Symantec Endpoint Encryption Portable Interface" width="700">
 </p>
 
 ---
